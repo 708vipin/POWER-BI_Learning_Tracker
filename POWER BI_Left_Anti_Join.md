@@ -51,8 +51,13 @@ Your task is to find the rows that are present in **Sheet1** but **not in Sheet2
 
 If tables are loaded into Power BI with identical column names and structure:
 
+
 ```DAX
 OnlyInSheet1 = EXCEPT(Sheet1, Sheet2)
 
+```
+
+
 ## 📝 Notes
 1. A measure always returns a SCALAR value. So if a table is required in output, NEW TABLE should be used not MEASURE.
+
