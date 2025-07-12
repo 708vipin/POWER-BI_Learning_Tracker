@@ -97,6 +97,16 @@ A complete, editable roadmap to mastering Power BI — from basics to advanced v
 ---
 
 ## 💡 Notes Section
+**RANKX() - 
+ALLSELECTED - 
+DATESINPERIOD -
+MAX - 
+CALCULATE - 
+COUNT - 
+SUM - 
+SELECTEDVALUE - 
+ALLEXCEPT - 
+FILTER - 
 
 ### 🔸 DAX: CALCULATE() Example
 ```DAX
